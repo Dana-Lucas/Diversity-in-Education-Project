@@ -21,7 +21,8 @@ Original abstract for the project:
 
 The data was taken from the National Center for Education Statistics:
 
-      National Center for Education Statistics. Major field of study, race/ethnicity, gender, attendance status, and level of student: Fall 2018 (n.d.). 
+      National Center for Education Statistics. Major field of study, race/ethnicity, gender, 
+      attendance status, and level of student: Fall 2018 (n.d.). 
       Retrieved January 27, 2020, from https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx
 
 The course textbook was used as reference throughout this project:
