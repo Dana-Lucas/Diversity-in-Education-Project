@@ -25,6 +25,6 @@ The data was taken from the National Center for Education Statistics:
       attendance status, and level of student: Fall 2018 (n.d.). 
       Retrieved January 27, 2020, from https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx
 
-The course textbook was used as reference throughout this project:
+The course textbook was used as reference throughout the project:
 
       Hill, Christian. Learning Scientific Programming With Python. Cambridge University Press, 2015.
